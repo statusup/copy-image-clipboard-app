@@ -12,4 +12,4 @@ Este é um aplicativo simples para copiar imagens diretamente da web para a áre
 - Biblioteca `copy-image-clipboard`
 
 ## Testar
-- [Visualize a aplicação aqui](https://SEU_USUARIO.github.io/copy-image-clipboard-app/)
+- [Visualize a aplicação aqui](https://statusup.github.io/copy-image-clipboard-app/)
